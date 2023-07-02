@@ -1,6 +1,30 @@
+## Human-Computer Interaction Course Project: Gesture Controlled Light Switch
+
+### Introduction
+
+Allows users to control lighting by looking at the light and performing hand gestures.
+
+Demo built with the Oculus VR headset.
+
+### Dependencies
+
+- Unity 2019.4.15f1
+- MRTK V.2.5.1
+- IoThingsLab v0.5
+
+### Demos
+
+- On/Off & Intensity Control
+
+  ![1](README.assets/1.gif)
+
+
+- Target selection with field of view
+
+  ![2](README.assets/2.gif)
+  
+
 ## 人机交互课程项目：要有光
-
-
 
 ### 研究问题
 
